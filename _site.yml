@@ -11,5 +11,5 @@ navbar:
       href: http://github.com/ys3508/
 output:
   html_document:
-    theme: cerulean
+    theme: flatly
 
